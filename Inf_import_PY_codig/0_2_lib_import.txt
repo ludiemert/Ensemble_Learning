@@ -1,0 +1,9 @@
+# Import 4 lib 
+import matplotlib.pyplot as plt # cria visualizacao de dados
+import seaborn as sns
+import numpy as np # lib de analise de dados
+import pandas as pd # lib de analise de dados
+
+# lib de Machine learn 
+# datasets => faz import de conj de dados pre feitos
+from sklearn.datasets import fetch_openml
